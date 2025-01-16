@@ -1,0 +1,178 @@
+.group {
+    height: 543px;
+    position: relative;
+    width: 791px;
+  }
+  
+  .group .text-wrapper {
+    color: #ffffff;
+    font-family: "Kodchasan", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 336px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: -1px;
+    width: 114px;
+  }
+  
+  .group .overlap-group {
+    height: 300px;
+    left: 0;
+    position: absolute;
+    top: 35px;
+    width: 791px;
+  }
+  
+  .group .ICONS {
+    height: 237px;
+    left: 0;
+    position: absolute;
+    top: 37px;
+    width: 791px;
+  }
+  
+  .group .line {
+    height: 64px;
+    left: 390px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 5px;
+  }
+  
+  .group .img {
+    height: 1px;
+    left: 142px;
+    object-fit: cover;
+    position: absolute;
+    top: 26px;
+    width: 497px;
+  }
+  
+  .group .div {
+    color: #ffffff;
+    font-family: "Kodchasan", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 88px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 273px;
+    width: 114px;
+  }
+  
+  .group .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Kodchasan", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 339px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 273px;
+    width: 114px;
+  }
+  
+  .group .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Kodchasan", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 590px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 273px;
+    width: 114px;
+  }
+  
+  .group .overlap {
+    height: 56px;
+    left: 144px;
+    position: absolute;
+    top: 346px;
+    width: 502px;
+  }
+  
+  .group .line-2 {
+    height: 38px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1px;
+  }
+  
+  .group .line-3 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 37px;
+    width: 502px;
+  }
+  
+  .group .line-4 {
+    height: 56px;
+    left: 244px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 7px;
+  }
+  
+  .group .line-5 {
+    height: 34px;
+    left: 387px;
+    object-fit: cover;
+    position: absolute;
+    top: 466px;
+    width: 7px;
+  }
+  
+  .group .line-6 {
+    height: 38px;
+    left: 646px;
+    object-fit: cover;
+    position: absolute;
+    top: 346px;
+    width: 1px;
+  }
+  
+  .group .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Kodchasan", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 335px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 407px;
+    width: 114px;
+  }
+  
+  .group .text-wrapper-5 {
+    -webkit-text-stroke: 1px #fffdfd;
+    color: #ffffff;
+    font-family: "Kodchasan", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 271px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 508px;
+    width: 245px;
+  }
+  
