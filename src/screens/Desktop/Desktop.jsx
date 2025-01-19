@@ -410,6 +410,12 @@ export const Desktop = () => {
           </div>
 
         <div className="text-wrapper-31">for architects</div>
+        <div className="text-wrapper-32">Here's How It Works!</div>
+        <div className="text-wrapper-33">You’ve got a client with land in an urban settlement, and your job is to design their house.
+          <br /> 
+        There are four key constraints to consider, and we’ll break it down using Random Forest decision trees
+          <br /> 
+        to help you nail the algorithm.</div>
           {/* Add the embedded game */}
         <div className="game-container">
           <iframe

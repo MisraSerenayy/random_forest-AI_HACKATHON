@@ -1080,10 +1080,38 @@
     white-space: nowrap;
     width: 336px;
   }
+  .desktop .text-wrapper-32 {
+    color: #ffffff;
+    font-family: "Micro 5", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    left: 403px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 5800px;
+    white-space: nowrap;
+    width: 633px;
+  }
+  .desktop .text-wrapper-33 {
+    color: #ffffff;
+    font-family: "Kodchasan", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 209PX;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 5850px;
+    white-space: nowrap;
+    width: 336px;
+    text-align: center;
+  }
   /* Game container styles */
   .game-container {
     position: absolute;
-    top: 5850px; /* Position it directly below the PLAY-GROUND title */
+    top: 5950px; /* Position it directly below the PLAY-GROUND title */
     left: 50%; /* Center horizontally */
     transform: translateX(-50%); /* Align center properly */
     width: 1000px; /* Set the width of the container */
